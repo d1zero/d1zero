@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+I'm 18 years old programmer from Lyubertsy
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

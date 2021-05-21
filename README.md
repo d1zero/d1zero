@@ -14,3 +14,4 @@ I'm 18 years old programmer
 |                |React                          |Junior/Learning              |
 |                |React Native                   |Intern/Learning              |
 |TypeScript      |React                          |Junior/Learning              |
+|                |Angular                        |Intern/Learning              |

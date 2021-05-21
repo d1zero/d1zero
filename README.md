@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 18 years old programmer from Lyubertsy
+I'm 18 years old programmer
 
 - 🔭 I’m currently working on project [Musicality](http://musicality.std-1578.ist.mospolytech.ru/)
 - 🌱 I’m currently learning React Native

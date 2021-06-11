@@ -9,7 +9,7 @@ I'm 18 years old programmer
 |Language        |Framework                      |Rank                         |
 |----------------|-------------------------------|-----------------------------|
 |Python          |Django                         |Junior/Learning              |
-|                |Flask                          |Junior                       |
+|                |Flask                          |Intern                       |
 |JavaScript      |Vanilla JS                     |Junior                       |
 |                |React                          |Junior/Learning              |
 |                |React Native                   |Intern/Learning              |

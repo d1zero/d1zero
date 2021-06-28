@@ -11,6 +11,7 @@ About me:
 	 - [Vk](https://vk.com/d1zero)
 	 - [Gmail](mailto:alexsergeev45@gmail.com)/[Yandex mail](mailto:asashek@ya.ru)
 	 -  Discord: d1zero#5130
+<br/>
 
 
 ## ⚡ Technologies: 

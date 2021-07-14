@@ -25,3 +25,5 @@ About me:
 |                |Angular                        |Intern/Learning              |
 
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=d1zero&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/d1zero"/>
+
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=d1zero&layout=compact" alt="d1zero" />

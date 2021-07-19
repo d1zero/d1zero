@@ -1,7 +1,6 @@
 # Hi there 👋
 <img align="right" alt="GIF" src="https://github.com/d1zero/d1zero/blob/main/code.gif?raw=true" width="400" height="260" />
-I'm 18 y. o. frontend & backend developer  
-About me:
+I'm 18 y. o. frontend & backend developer  About me:
 
 - &#127759; Russia/Moscow
 - 🔭 Currently working on [Musicality](http://musicality.std-1578.ist.mospolytech.ru/)

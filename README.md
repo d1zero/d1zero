@@ -4,7 +4,7 @@ I'm 18 y. o. frontend & backend developer.
 About me:
 
 - &#127759; Russia/Moscow
-- 🔭 Currently working on ...
+- 🔭 Currently working on [Video hosting](https://github.com/d1zero/videohosting)
 - 📫 How to reach me: 
 	 - [Telegram](https://t.me/d1z3ro)
 	 - [Vk](https://vk.com/d1zero)

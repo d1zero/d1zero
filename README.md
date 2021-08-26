@@ -24,8 +24,8 @@ About me:
 |                |Angular                        |Intern                       |
 |Golang          |                               |Intern                       |
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=d1zero&theme=radical&show_icons=true" href="https://github.com/d1zero"/>
+<img alt="My Github stats" align="center" border-radius="40px" width="800px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1zero&theme=radical&show_icons=true" href="https://github.com/d1zero"/>
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1zero&theme=radical&show_icons=true" href="https://github.com/d1zero"/>
+<img alt="My Github stats" align="center" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=d1zero&theme=radical&show_icons=true" href="https://github.com/d1zero"/>
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=d1zero&layout=compact&theme=radical" alt="d1zero" />
+<img alt="My Github stats" align="center" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=d1zero&layout=compact&theme=radical" alt="d1zero" />

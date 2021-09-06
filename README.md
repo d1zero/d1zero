@@ -27,7 +27,8 @@ About me:
 
 <img alt="My Github stats" align="left" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=d1zero&theme=radical&show_icons=true" href="https://github.com/d1zero"/>
 
-<br/>
+
+---
 
 <img alt="My Github stats" align="left" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=d1zero&layout=compact&theme=radical" alt="d1zero" />
 	

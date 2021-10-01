@@ -22,7 +22,7 @@ About me:
 |                |React Native                   |Intern/Learning              |
 |TypeScript      |React                          |Junior/Learning              |
 |                |Angular                        |Intern                       |
-|Golang          |                               |Intern                       |
+|Golang          |                               |Intern/Learning              |
 
 
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=d1zero&theme=radical&show_icons=true" href="https://github.com/d1zero"/>

@@ -26,11 +26,11 @@ About me:
 
 ## Other info
 <div align="center">
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=d1zero&theme=radical&show_icons=true"/>
 
+[![d1zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=d1zero&theme=radical&show_icons=true&count_private=true)](https://github.com/d1zero)
 
-[![d1zero's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d1zero)](https://github.com/d1zero)
+[![d1zero's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d1zero&theme=radical)](https://github.com/d1zero)
 
+[![d1zero's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1zero&theme=radical)](https://github.com/d1zero)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1zero&layout=compact)](https://github.com/d1zero)
 </div>

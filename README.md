@@ -4,7 +4,7 @@ I'm 19 y. o. frontend & backend developer.
 About me:
 
 - &#127759; Russia/Moscow
-- 🔭 Currently working on [Video hosting](https://github.com/d1zero/videohosting)
+- 🔭 Currently studying Flutter and Go
 - 📫 How to reach me: 
 	 - [Telegram](https://t.me/d1z3ro)
 	 - [Vk](https://vk.com/d1zero)
@@ -19,10 +19,11 @@ About me:
 |                |Flask                          |Intern                       |
 |JavaScript      |Vanilla JS                     |Junior                       |
 |                |React                          |Junior/Learning              |
-|                |React Native                   |Intern/Learning              |
+|                |React Native                   |Intern                       |
 |TypeScript      |React                          |Junior/Learning              |
 |                |Angular                        |Intern                       |
 |Golang          |                               |Intern/Learning              |
+|Dart            |Flutter                        |Intern/Learning              |
 
 ## Other info
 <div align="center">

@@ -30,7 +30,6 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-%23010409?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=4169E1"></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-%23010409?style=for-the-badge&logo=firebase&logoColor=010409&labelColor=FFCA28"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23010409?style=for-the-badge&logo=git&logoColor=fff&labelColor=F05032"></a>
-<a href="https://mobaxterm.mobatek.net/" target="_blank"><img src="https://img.shields.io/badge/MobaXTerm-%23010409?style=for-the-badge&logo=windowsterminal&logoColor=fff&labelColor=4D4D4D"></a>
 </p>
 
 

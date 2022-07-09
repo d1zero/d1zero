@@ -44,7 +44,7 @@
 
 
 ## 📊Github stats
-
+[![wakatime](https://wakatime.com/badge/user/752e414d-e1e6-406f-9bad-f9509413810e.svg)](https://wakatime.com/@752e414d-e1e6-406f-9bad-f9509413810e)
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>

@@ -59,7 +59,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img alt="d1zero's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=d1zero&custom_title=d1zero's%20Contribution%20Graph&theme=react-dark&&\\hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img alt="d1zero's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=d1zero&custom_title=d1zero's%20Contribution%20Graph&theme=react-dark&&\\hide_border=true" /></a>
   <br/>
 </details>
 
